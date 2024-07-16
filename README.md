@@ -1,5 +1,5 @@
-# Welcome!👋
-## I am a Software Engineering Student & Teaching Assistant (TA) in the United kingdom!<br/>
+## Hello World!👋
+### I am a Software Engineering Student & Teaching Assistant (TA) in the United kingdom!<br/>
 
 I am proficient in the following languages _(in addition to others I am less experienced in)_:<br/>
   **- Java**<br/>
@@ -9,8 +9,8 @@ I am proficient in the following languages _(in addition to others I am less exp
   **- C**<br/>
 
 Have a look at my projects and feel free to reach me at any of the following!<br/>
-X: X.com/Mahmouda_<br/>
-Linkedin: linkedin.com/in/mahmouda01/<br/>
+**X:** _X.com/Mahmouda__<br/>
+**Linkedin:** linkedin.com/in/mahmouda01/<br/>
 
 
 
