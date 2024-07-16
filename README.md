@@ -1,13 +1,19 @@
-## Welcome!👋
-I am a Software Engineering Student & Teaching Assistant (TA) in the United kingdom!
-<br/>
+# Welcome!👋
+## I am a Software Engineering Student & Teaching Assistant (TA) in the United kingdom!<br/>
 
-I am proficient in the following languages:
-  - Java
-  - Javascript (+ Typescript, React/React Native)
-  - Flutter Dart
-  - Assembly
-  - C
+I am proficient in the following languages _(in addition to others I am less experienced in)_:
+  **- Java**
+  **- Javascript (+ Typescript, React/React Native)**
+  **- Flutter Dart**
+  **- Assembly**
+  **- C**<br/>
+
+Have a look at my projects and feel free to reach me at any of the following!
+X: X.com/Mahmouda_
+Linkedin: linkedin.com/in/mahmouda01/
+
+
+
 
 
 <!--
