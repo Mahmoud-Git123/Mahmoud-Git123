@@ -1,5 +1,6 @@
 ## Welcome!👋
-I am a Software Engineering Student & Teaching Assistant (TA) in the United kingdom! 🇬🇧
+I am a Software Engineering Student & Teaching Assistant (TA) in the United kingdom! 
+/n
 I am proficient in the following languages:
   - Java
   - Javascript (+ Typescript, React/React Native)
