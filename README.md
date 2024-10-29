@@ -1,5 +1,5 @@
 ## Hello World!👋
-### I am a Software Engineering Student & Teaching Assistant (TA) in the United kingdom!<br/>
+### I am a Junior Developer, Teaching Assistant (TA) and a Software Engineering Student in the United kingdom!<br/>
 
 I am proficient in the following languages _(in addition to others I am less experienced in)_:<br/>
   **- Java**<br/>
