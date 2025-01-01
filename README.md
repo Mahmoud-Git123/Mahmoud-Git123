@@ -9,8 +9,9 @@ I am proficient in the following languages _(in addition to others I am less exp
   **- C**<br/>
 
 Have a look at my projects and feel free to reach me at any of the following!<br/>
+**Website:** _Moud.Dev_<br/>
 **X:** _X.com/Mahmouda__<br/>
-**Linkedin:** linkedin.com/in/mahmouda01/<br/>
+**Linkedin:** _linkedin.com/in/mahmouda01_/<br/>
 
 
 
