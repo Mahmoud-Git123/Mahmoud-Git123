@@ -1,19 +1,3 @@
-## Hello World!👋
-### I am a Junior Developer, Teaching Assistant (TA) and a Software Engineering Student in the United kingdom!<br/>
-
-I am proficient in the following languages _(in addition to others I am less experienced in)_:<br/>
-  **- Java**<br/>
-  **- Javascript (+ Typescript, React/React Native)**<br/>
-  **- Flutter Dart**<br/>
-  **- Assembly**<br/>
-  **- C**<br/>
-
-Have a look at my projects and feel free to reach me at any of the following!<br/>
-**Website:** _Moud.Dev_<br/>
-**X:** _X.com/Mahmouda__<br/>
-**Linkedin:** _linkedin.com/in/mahmouda01_/<br/>
-
-
 <h1 align="center">Hi there, I'm Mahmoud 👋</h1>
 
 <p align="center">
@@ -34,10 +18,10 @@ I'm a passionate developer with a growing portfolio of projects across web, mobi
 Here's a snapshot of the technologies I work with most:
 
 - 💻 **Languages**:  
-  `Java` • `JavaScript` / `TypeScript` • `Dart` • `C` • `Assembly`
+  `Java` • `JavaScript` / `TypeScript` • `Python` • `Dart` • `C` • `Assembly`
 
 - 🌐 **Frameworks & Tools**:  
-  `React` / `React Native` • `Flutter` • `Node.js` • `Git` • `VS Code`
+  `React` / `React Native` • `Next.js` • `Flutter` • `Node.js` • `Three.js` • `GSAP` • `Git` • `VS Code`
 
 ---
 
@@ -58,7 +42,7 @@ Feel free to reach out — I’m always open to networking, collaborations, or j
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,flutter,dart,c,assembly,vscode,git" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,react,nextjs,flutter,dart,threejs,gsap,c,assembly,vscode,git" alt="Tech stack icons" />
 </p>
 
 
