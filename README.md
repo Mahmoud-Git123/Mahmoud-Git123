@@ -21,7 +21,7 @@ Here's a snapshot of the technologies I work with most:
   `Java` • `JavaScript` / `TypeScript` • `Python` • `Dart` • `C` • `Assembly`
 
 - 🌐 **Frameworks & Tools**:  
-  `React` / `React Native` • `Next.js` • `Flutter` • `Node.js` • `Three.js` • `GSAP` • `Git` • `VS Code`
+  `React` / `React Native` • `Next.js` • `Flutter` • `FastAPI` • `Node.js` • `Three.js` • `GSAP` • `Git` • `VS Code`
 
 ---
 
@@ -42,7 +42,7 @@ Feel free to reach out — I’m always open to networking, collaborations, or j
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,py,react,nextjs,flutter,dart,threejs,c,vscode,git" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,fastapi,react,nextjs,flutter,dart,threejs,c,vscode,git" alt="Tech stack icons" />
 </p>
 
 
