@@ -42,7 +42,7 @@ Feel free to reach out — I’m always open to networking, collaborations, or j
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,py,react,nextjs,flutter,dart,threejs,gsap,c,assembly,vscode,git" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,react,nextjs,flutter,dart,threejs,c,vscode,git" alt="Tech stack icons" />
 </p>
 
 
