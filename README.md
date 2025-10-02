@@ -27,7 +27,7 @@ Here's a snapshot of the technologies I work with most:
 
 ## 📂 Projects
 
-Check out some of my latest work right here on [my GitHub profile](https://github.com/yourusername) or visit my portfolio below!
+Check out some of my latest work right here on [my GitHub profile](https://github.com/mahmoud-git123) or visit my website below!
 
 ---
 
