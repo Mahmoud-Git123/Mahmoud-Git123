@@ -1,63 +1,79 @@
 <h1 align="center">Hi there, I'm Mahmoud 👋</h1>
 
 <p align="center">
-  🧑‍💻 Junior Developer • 🎓 Software Engineering Graduate • 👨‍🏫 Teaching Assistant<br/>
-  📍 Based in the United Kingdom
+  🎓 PhD Researcher in AI Security • 🧠 LLM & Adversarial ML • 👨‍🏫 Teaching Assistant<br/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate developer with a growing portfolio of projects across web, mobile, and low-level development. Currently studying Software Engineering and working as a Teaching Assistant, I love building cool things, solving problems, and helping others grow in tech!
+I'm a **PhD student and researcher in AI Security**, focusing on **adversarial machine learning and the robustness of large language models**, including multimodal systems. My work explores how modern AI systems fail under adversarial pressure and how we can make them more secure, reliable, and trustworthy.
+
+Alongside my research, I work as a **Teaching Assistant** at Lancaster University, supporting students across systems programming, software engineering, and low-level debugging. I enjoy building experimental ML pipelines, digging into model internals, and translating theory into practical, reproducible research.
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Research Interests
 
-Here's a snapshot of the technologies I work with most:
+- Adversarial Machine Learning
+- Large Language Models (LLMs)
+- Multimodal Robustness & Security
+- Prompt Injection & Model Attacks
+- Secure and Trustworthy AI Systems
+- Optimization Methods for Deep Learning
 
-- 💻 **Languages**:  
-  `Java` • `JavaScript` / `TypeScript` • `Python` • `Dart` • `C` • `Assembly`
+---
 
-- 🌐 **Frameworks & Tools**:  
-  `React` / `React Native` • `Next.js` • `Flutter` • `FastAPI` • `Node.js` • `Three.js` • `GSAP` • `Git` • `VS Code`
+## 🛠️ Tech Stack
+
+### 💻 Languages
+`Python` • `Java` • `C` • `C++` • `JavaScript` / `TypeScript` • `SQL` • `Assembly`
+
+### 🧪 ML & Research
+`PyTorch` • `Transformers` • Experimental ML Pipelines • Model Evaluation & Analysis
+
+### 🌐 Frameworks & Tools
+`FastAPI` • `React` / `React Native` • `Next.js` • `Flutter` • `Unity (C#)` • `Git` • `Azure DevOps`
+
+### ⚙️ Methodologies
+Agile • SCRUM • CI/CD • Test-Driven Development • Reproducible Research
+
+---
+
+## 🎓 Education
+
+- **PhD in AI Security (Cybersecurity of AI)**  
+  *Lancaster University* — *Funded Studentship* (2025–Present)
+
+- **BSc (Hons) Software Engineering — First Class (1:1)**  
+  *Lancaster University* (2022–2025)
 
 ---
 
 ## 📂 Projects
 
-Check out some of my latest work right here on [my GitHub profile](https://github.com/mahmoud-git123) or visit my website below!
+Most of my work focuses on:
+- LLM robustness and interpretability
+- Adversarial evaluation tooling
+- Secure ML experimentation
+- Full-stack systems supporting research workflows
+
+Explore my repositories below 👇
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let’s Connect
 
-Feel free to reach out — I’m always open to networking, collaborations, or just a good tech chat!
+I’m always open to research discussions, collaborations, or interesting problems in AI security.
 
-- 🌐 **Website**: [Moud.Dev](https://moud.dev)
-- 🐦 **X (Twitter)**: [@Mahmouda__](https://x.com/Mahmouda__)
+- 🌐 **Website**: [https://mahmoud-a.com](https://mahmoud-a.com)
 - 💼 **LinkedIn**: [linkedin.com/in/mahmouda01](https://linkedin.com/in/mahmouda01)
+- 🐦 **X (Twitter)**: [@Mahmouda__](https://x.com/Mahmouda__)
+- 🧑‍💻 **GitHub**: [github.com/Mahmoud-Git123](https://github.com/Mahmoud-Git123)
 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,py,fastapi,react,nextjs,flutter,dart,threejs,c,vscode,git" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,java,c,cpp,js,react,fastapi,flutter,unity,git,vscode" alt="Tech stack icons" />
 </p>
-
-
-
-<!--
-**Mahmoud-Git123/Mahmoud-Git123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
