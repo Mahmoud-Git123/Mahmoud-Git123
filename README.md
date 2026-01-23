@@ -44,9 +44,9 @@ Agile • SCRUM • CI/CD • Test-Driven Development • Reproducible Research
 ## 🎓 Education
 
 - **PhD in AI Security (Cybersecurity of AI)**  
-  *Lancaster University* — *Funded Studentship* (2025–Present)
+  *Lancaster University* (2025–Present)
 
-- **BSc (Hons) Software Engineering — First Class (1:1)**  
+- **BSc (Hons) Software Engineering**  
   *Lancaster University* (2022–2025)
 
 ---
