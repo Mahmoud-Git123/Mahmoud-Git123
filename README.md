@@ -1,79 +1,53 @@
-<h1 align="center">Hi there, I'm Mahmoud 👋</h1>
+<h1 align="center">Mahmoud A.</h1>
 
 <p align="center">
-  🎓 PhD Researcher in AI Security • 🧠 LLM & Adversarial ML • 👨‍🏫 Teaching Assistant<br/>
+  PhD Researcher in AI Security · Adversarial ML · Large Language Models
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm a **PhD student and researcher in AI Security**, focusing on **adversarial machine learning and the robustness of large language models**, including multimodal systems. My work explores how modern AI systems fail under adversarial pressure and how we can make them more secure, reliable, and trustworthy.
+I am a PhD researcher in AI Security at Lancaster University, focusing on adversarial machine learning, large language model robustness, and the security of multimodal AI systems.
 
-Alongside my research, I work as a **Teaching Assistant** at Lancaster University, supporting students across systems programming, software engineering, and low-level debugging. I enjoy building experimental ML pipelines, digging into model internals, and translating theory into practical, reproducible research.
+My work explores how AI systems behave under adversarial conditions and how they can be made more reliable, secure, and trustworthy. I also work as a Teaching Assistant, supporting students in systems programming, software engineering, and debugging.
 
 ---
 
-## 🧠 Research Interests
+## Research Interests
 
 - Adversarial Machine Learning
-- Large Language Models (LLMs)
-- Multimodal Robustness & Security
-- Prompt Injection & Model Attacks
-- Secure and Trustworthy AI Systems
-- Optimization Methods for Deep Learning
+- LLM Security and Robustness
+- AI Alignment
+- AI Interpretability
+- Multimodal AI Security
+- Prompt Injection and Jailbreak Attacks
+- Trustworthy AI Systems
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-### 💻 Languages
-`Python` • `Java` • `C` • `C++` • `JavaScript` / `TypeScript` • `SQL` • `Assembly`
-
-### 🧪 ML & Research
-`PyTorch` • `Transformers` • Experimental ML Pipelines • Model Evaluation & Analysis
-
-### 🌐 Frameworks & Tools
-`FastAPI` • `React` / `React Native` • `Next.js` • `Flutter` • `Unity (C#)` • `Git` • `Azure DevOps`
-
-### ⚙️ Methodologies
-Agile • SCRUM • CI/CD • Test-Driven Development • Reproducible Research
+**Languages:** Python, Java, C, C++, JavaScript/TypeScript, SQL, Assembly  
+**ML & Research:** PyTorch, Transformers, model evaluation, experimental ML pipelines  
+**Frameworks & Tools:** FastAPI, React, Next.js, Flutter, Unity, Git, Azure DevOps  
+**Practices:** CI/CD, test-driven development, reproducible research
 
 ---
 
-## 🎓 Education
+## Education
 
-- **PhD in AI Security (Cybersecurity of AI)**  
-  *Lancaster University* (2025–Present)
+**PhD in AI Security**  
+Lancaster University, 2025–Present
 
-- **BSc (Hons) Software Engineering**  
-  *Lancaster University* (2022–2025)
-
----
-
-## 📂 Projects
-
-Most of my work focuses on:
-- LLM robustness and interpretability
-- Adversarial evaluation tooling
-- Secure ML experimentation
-- Full-stack systems supporting research workflows
-
-Explore my repositories below 👇
+**BSc Software Engineering**  
+Lancaster University, 2022–2025
 
 ---
 
-## 📫 Let’s Connect
+## Links
 
-I’m always open to research discussions, collaborations, or interesting problems in AI security.
-
-- 🌐 **Website**: [https://mahmoud-a.com](https://mahmoud-a.com)
-- 💼 **LinkedIn**: [linkedin.com/in/mahmouda01](https://linkedin.com/in/mahmouda01)
-- 🐦 **X (Twitter)**: [@Mahmouda__](https://x.com/Mahmouda__)
-- 🧑‍💻 **GitHub**: [github.com/Mahmoud-Git123](https://github.com/Mahmoud-Git123)
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,java,c,cpp,js,react,fastapi,flutter,unity,git,vscode" alt="Tech stack icons" />
-</p>
+- Website: [mahmoud-a.com](https://mahmoud-a.com)
+- LinkedIn: [linkedin.com/in/mahmouda01](https://linkedin.com/in/mahmouda01)
+- X: [@Mahmouda__](https://x.com/Mahmouda__)
+- GitHub: [github.com/Mahmoud-Git123](https://github.com/Mahmoud-Git123)
