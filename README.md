@@ -30,5 +30,4 @@ I am a PhD researcher in AI Security at Lancaster University, focusing on advers
 - [Scholar](https://scholar.google.com/citations?user=PE_BCG0AAAAJ&hl=en&oi=sra)
 - [ResearchGate](https://www.researchgate.net/profile/Mahmoud-Abdelfattah-16?ev=hdr_xprf)
 - [LinkedIn](https://linkedin.com/in/mahmouda01)
-- [X](https://x.com/Mahmouda__)
-- [GitHub](https://github.com/Mahmoud-Git123)
+- [X](https://x.com/Mahmouda_)
