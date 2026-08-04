@@ -26,25 +26,6 @@ My work explores how AI systems behave under adversarial conditions and how they
 
 ---
 
-## Technical Skills
-
-**Languages:** Python, Java, C, C++, JavaScript/TypeScript, SQL, Assembly  
-**ML & Research:** PyTorch, Transformers, model evaluation, experimental ML pipelines  
-**Frameworks & Tools:** FastAPI, React, Next.js, Flutter, Unity, Git, Azure DevOps  
-**Practices:** CI/CD, test-driven development, reproducible research
-
----
-
-## Education
-
-**PhD in AI Security**  
-Lancaster University, 2025–Present
-
-**BSc Software Engineering**  
-Lancaster University, 2022–2025
-
----
-
 ## Links
 
 - Website: [mahmoud-a.com](https://mahmoud-a.com)
