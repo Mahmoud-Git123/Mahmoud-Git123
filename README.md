@@ -4,11 +4,6 @@
   PhD Researcher in AI Security · Adversarial ML · LLM & Agentic AI Security
 </p>
 
----
-
-## Research Interests
-
-Adversarial Machine Learning · LLM Security · Agentic Security · AI Alignment · AI Interpretability · Multimodal AI Security · Prompt Injection and Jailbreak Attacks · Trustworthy AI Systems
 
 ---
 
